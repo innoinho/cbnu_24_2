@@ -168,13 +168,3 @@ GitHub
 https://github.com/innoinho
 
 ---
-
-# ⭐ Future Update
-
-예정 내용
-
-- CNN 프로젝트 추가
-- RNN 프로젝트 추가
-- 생성형 AI 프로젝트 추가
-- 산업 AI 프로젝트 추가
-- 연구 논문 코드 정리
