@@ -2,7 +2,7 @@
 
 # 🤖 산업인공지능 실습 및 프로젝트 포트폴리오
 
-### Chungbuk National University (CBNU) - 2024
+### Chungbuk National University (CBNU) - 2024년 2학기
 
 인공지능, 머신러닝, 데이터분석, IoT 관련 강의 실습 및 프로젝트 코드 저장소
 
